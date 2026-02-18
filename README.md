@@ -54,8 +54,8 @@ RabotaBy/
 │   └── config.py            # Параметры парсера и Chrome
 │
 ├── config/
-│   ├── search_links.txt     # 174 ссылки поиска по специализациям
-│   ├── specializations.txt  # 174 названия специализаций
+│   ├── search_links.txt     # все 174 ссылки поиска по специализациям
+│   ├── specializations.txt  # все 174 названия специализаций
 │   └── README.md            # Как настроить свои специализации
 │
 ├── docs/
