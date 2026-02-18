@@ -1,0 +1,10 @@
+# Web scraping libraries
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Browser automation
+selenium>=4.15.0
+undetected-chromedriver>=3.5.5
+
+# Data processing
+# (стандартные библиотеки: json, datetime, time, os, sys, typing, re)
